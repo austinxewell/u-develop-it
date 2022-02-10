@@ -22,7 +22,7 @@
   # Contributing
   There are no other contributers for this project.
   # Tests
-  There are no test written for this web application.
+  Once you have completed the installation and have selected your database, sourced your tables, and sourced your seeds, you can run npm test in the command line to verify all tests are working and have passing parameters.
   # Questions
   * GitHub user: austinxewell
   * https://github.com/austinxewell
